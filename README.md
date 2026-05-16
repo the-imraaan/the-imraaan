@@ -33,14 +33,6 @@ Building high-quality WordPress experiences through testing, automation, and mod
 
 ## 💼 What I Currently Work On
 
-### Enterprise WordPress Client Projects at rtCamp
-
-- Testing and validating large-scale WordPress implementations
-- QA for enterprise WordPress themes and plugins
-- Supporting release validation and regression testing
-- Collaborating with developers on production-ready solutions
-- Working with modern WordPress architecture and workflows
-
 ### Modern WordPress Development
 
 - Full Site Editing (FSE) theme development
@@ -49,23 +41,17 @@ Building high-quality WordPress experiences through testing, automation, and mod
 - Custom WordPress plugin development
 - Theme customization and scalable architecture
 
+### Enterprise WordPress Client Projects at rtCamp
+
+- Testing and validating large-scale WordPress implementations
+- QA for enterprise WordPress themes and plugins
+- Supporting release validation and regression testing
+- Collaborating with developers on production-ready solutions
+- Working with modern WordPress architecture and workflows
+
 ---
 
 ## 🛠 Tech Stack
-
-### QA & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=selenium,postman,githubactions" />
-</p>
-
-- Playwright
-- Selenium
-- API Testing
-- Regression Testing
-- Performance Testing
-- Database Testing
-- Manual Testing
 
 ### WordPress Development
 
@@ -82,6 +68,20 @@ Building high-quality WordPress experiences through testing, automation, and mod
 - WooCommerce
 - Plugin Development
 - Theme Development
+
+### QA & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium,postman,githubactions" />
+</p>
+
+- Playwright
+- Selenium
+- API Testing
+- Regression Testing
+- Performance Testing
+- Database Testing
+- Manual Testing
 
 ### Tools & Workflow
 
@@ -134,25 +134,16 @@ Worked with modern WordPress Full Site Editing architecture and custom block-bas
 Custom browser tools for broken link checking and QA productivity.
 
 ---
+## 📈 GitHub Activity
+
+<p>
+  <img src="https://ghchart.rshah.org/the-imraaan" alt="GitHub Contribution Chart" />
+</p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-imraaan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=14400"
-    height="170"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=the-imraaan&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=the-imraaan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400"
-  />
+<p>
+  <img src="https://streak-stats.demolab.com?user=the-imraaan&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
