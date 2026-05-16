@@ -9,7 +9,7 @@ Building high-quality WordPress experiences through testing, automation, and mod
 </p>
 
 <p align="center">
-  <a href="https://www.easyimran.com">🌐 Website</a> •
+  <a href="https://www.easyimran.com/blog/">🌐 Read my Blogs</a> •
   <a href="https://www.linkedin.com/in/the-imraaan/">LinkedIn</a> •
   <a href="https://profiles.wordpress.org/imranhasanraaz/">WordPress.org</a>
 </p>
@@ -113,25 +113,41 @@ https://profiles.wordpress.org/imranhasanraaz/
 
 ## 🚧 Featured Projects
 
-### 🔹 Bulk SEO Updater
+### 🔹 [Bulk SEO Updater](https://wordpress.org/plugins/bulk-seo-updater/)
 
-A WordPress plugin to bulk update SEO titles and descriptions using CSV uploads.
+A WordPress plugin to bulk update Yoast SEO titles and descriptions using CSV uploads.
 
-### 🔹 WordPress Automation Testing
+### 🔹 [Nextiva WordPress Engineering Projects](https://www.easyimran.com/portfolio/)
+
+Worked on production WordPress components including global header/footer, ACF block library, reusable widgets, and scalable marketing-site architecture.
+
+### 🔹 [WordPress Automation Testing](https://github.com/the-imraaan/Playwright_Framwork_Java)
 
 End-to-end automation testing workflows for WordPress themes and plugins using Playwright.
 
-### 🔹 ACF Block Development
+### 🔹 [API Testing with Postman & Newman](https://github.com/the-imraaan/API_Testing_Using_Postman_And_Newman)
+
+REST API testing workflow using Postman collections and Newman for CI-ready validation.
+
+### 🔹 [Performance Testing with JMeter](https://github.com/the-imraaan/jmeter-perfomance-testing)
+
+Load and performance testing practice using Apache JMeter.
+
+### 🔹 [Database Testing Suite](https://github.com/the-imraaan/DB_Testing)
+
+SQL and MySQL-based database testing for data validation and integrity checks.
+
+### 🔹 [Responsiveness Test Extension](https://github.com/the-imraaan/responsiveness-test-extension)
+
+A Chrome extension tool for testing website responsiveness across multiple screen sizes to improve QA productivity.
+
+### 🔹 [ACF Block Development](https://www.easyimran.com/portfolio/)
 
 Built reusable and scalable custom Gutenberg blocks using ACF Pro and block.json architecture.
 
-### 🔹 Block Theme & FSE Development
+### 🔹 [Block Theme & FSE Development](https://www.easyimran.com/portfolio/)
 
 Worked with modern WordPress Full Site Editing architecture and custom block-based themes.
-
-### 🔹 Chrome Extension Tools
-
-Custom browser tools for broken link checking and QA productivity.
 
 ---
 ## 📈 GitHub Activity
@@ -151,11 +167,8 @@ Custom browser tools for broken link checking and QA productivity.
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.easyimran.com/">🌐 Website</a><br>
-<a href="https://www.easyimran.com/about/">👨‍💻 About</a><br>
-<a href="https://www.easyimran.com/portfolio/">📂 Portfolio</a><br>
-<a href="https://www.easyimran.com/services/">🛠 Services</a><br>
-<a href="https://www.easyimran.com/contact/">📫 Contact</a><br>
+<a href="mailto:the-imraaan@gmail.com"> 📧 Email</a><br>
+<a href="https://www.easyimran.com/contact/"> 🌐 Website</a><br>
 <a href="https://github.com/the-imraaan">💻 GitHub</a><br>
 <a href="https://www.linkedin.com/in/the-imraaan/">🔗 LinkedIn</a><br>
 <a href="https://profiles.wordpress.org/imranhasanraaz/">📝 WordPress.org</a>
