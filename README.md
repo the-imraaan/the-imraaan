@@ -1,50 +1,134 @@
-# Imran Hasan
+<h1 align="center">Hi 👋, I'm Imran Hasan</h1>
 
-**QA Engineer | WordPress Contributor | Test Automation Enthusiast | Plugin Developer (in progress)**  
-📍 Based in Bangladesh | 💼 Currently at [rtCamp](https://rtcamp.com)
+<h3 align="center">
+QA Engineer • WordPress Developer • Automation Enthusiast
+</h3>
 
----
-
-## About Me
-
-I am a Quality Assurance Engineer with strong experience in both **manual and automation testing** within the WordPress ecosystem. I specialize in validating themes, plugins, and custom implementations using tools like **Playwright**, **Selenium**, and CI/CD pipelines such as **CircleCI**. I’m also exploring **plugin development** with a goal to build meaningful tools that solve real-world problems.
-
-In addition to QA, I actively contribute to the **WordPress open-source project**, including the **Core**, **Polyglots**, and **Photos** teams.
+<p align="center">
+Building high-quality WordPress experiences through testing, automation, and modern development.
+</p>
 
 ---
 
-## Current Focus
+## 🚀 About Me
 
-- **Test Automation:** Playwright, Selenium, REST API, database testing  
-- **Development:** WordPress plugin development, Core Java, JavaScripts, PHP
-- **Tools & Technologies:** JavaScript, GitHub Actions, CircleCI, WordPress APIs 
-- **Learning Goals:** Writing scalable test frameworks, contributing to plugins, improving backend development knowledge
-
----
-
-## Recent Work
-
-### 🔌 [Bulk SEO Updater](https://wordpress.org/plugins/bulk-seo-updater/)
-A WordPress plugin that helps users **bulk update SEO meta titles and descriptions** from a CSV file.  
-- Supports Yoast SEO
-- Supports WooCommerce products SEO 
-- Developed to streamline SEO workflows for content-heavy websites
+- 🔍 QA Engineer with strong expertise in WordPress ecosystems
+- ⚡ Experienced in both **manual and automation testing**
+- 🧩 WordPress Developer focused on:
+  - Block Theme Development
+  - Full Site Editing (FSE)
+  - ACF Block Development
+  - Custom Plugin Development
+- 🛠 Skilled in building scalable testing workflows using Playwright
+- 🌱 Active WordPress contributor and community enthusiast
+- ✈️ Love traveling, photography, and exploring new tech
 
 ---
 
-## Looking to Collaborate
+## 💼 What I Currently Work On
 
-I am open to collaborating on:
-- Test automation projects (Playwright, Selenium)  
-- WordPress plugin development  
-- QA process improvement initiatives
+### Enterprise WordPress Client Projects at rtCamp
+- Testing and validating large-scale WordPress implementations
+- Working with modern WordPress architecture
+- QA for custom themes, plugins, and enterprise workflows
+- Supporting release validation and regression testing
+- Collaborating with developers on production-ready solutions
+
+### Modern WordPress Development
+- Full Site Editing (FSE) theme development
+- Custom Gutenberg / Block development
+- ACF-powered dynamic block creation
+- Custom WordPress plugin development
+- Theme customization and scalable architecture
 
 ---
 
-## Contact
+## 🛠 Tech Stack
 
-- 📧 **Email:** the.imraaan@gmail.com  
-- 🌐 **Website:** [www.imraaan.pro](https://www.imraaan.pro)  
-- 🔗 **LinkedIn:** [the-imraaan](https://www.linkedin.com/in/the-imraaan/)  
-- 🎓 **WordPress Profile:** [Imran](https://profiles.wordpress.org/imranhasanraaz/)
+### QA & Automation
+- Playwright
+- Selenium
+- API Testing
+- Performance Testing
+- Database Testing
+- Manual Testing
+- Regression Testing
 
+### WordPress Development
+- WordPress Core
+- Gutenberg
+- Block Themes
+- Full Site Editing (FSE)
+- ACF Pro
+- ACF Blocks
+- WooCommerce
+- Plugin Development
+- Theme Development
+
+### Tools & Workflow
+- Git & GitHub
+- Chrome DevTools
+- CircleCI
+- Jira
+- Linux / Nginx
+
+---
+
+## 🌍 WordPress Contributions
+
+- Core Contributor
+- Polyglots Contributor
+- Translation Contributor
+- Plugin Developer
+- Photo Contributor
+- WordCamp Participant
+
+🔗 WordPress Profile: https://profiles.wordpress.org/imranhasanraaz/
+
+---
+
+## 🚧 Featured Work
+
+### Bulk SEO Updater
+A WordPress plugin to bulk update SEO titles and descriptions using CSV uploads.
+
+### WordPress Automation Testing
+End-to-end automation testing workflows for WordPress themes and plugins using Playwright.
+
+### ACF Block Development
+Built reusable and scalable custom Gutenberg blocks using ACF Pro and block.json architecture.
+
+### Block Theme & FSE Development
+Worked with modern WordPress Full Site Editing architecture and custom block-based themes.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-imraaan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-imraaan&theme=tokyonight" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.easyimran.com/">🌐 Website</a><br>
+<a href="https://www.easyimran.com/about/">👨‍💻 About</a><br>
+<a href="https://www.easyimran.com/portfolio/">📂 Portfolio</a><br>
+<a href="https://www.easyimran.com/services/">🛠 Services</a><br>
+<a href="https://www.easyimran.com/contact/">📫 Contact</a><br>
+<a href="https://github.com/the-imraaan">💻 GitHub</a><br>
+<a href="https://www.linkedin.com/in/the-imraaan/">🔗 LinkedIn</a>
+</p>
+
+---
+
+<p align="center">
+✨ Passionate about quality, automation, and modern WordPress development.
+</p>
