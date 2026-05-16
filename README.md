@@ -139,7 +139,7 @@ Custom browser tools for broken link checking and QA productivity.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=the-imraaan&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=the-imraaan&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" 
     height="170"
   />
   
@@ -151,7 +151,7 @@ Custom browser tools for broken link checking and QA productivity.
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-imraaan&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-imraaan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
   />
 </p>
 
