@@ -30,6 +30,19 @@ Building high-quality WordPress experiences through testing, automation, and mod
 - ✈️ Love traveling, photography, and exploring new technologies
 
 ---
+## 📈 GitHub Activity
+
+<p>
+  <img src="https://ghchart.rshah.org/the-imraaan" alt="GitHub Contribution Chart" />
+</p>
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=the-imraaan&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
 
 ## 💼 What I Currently Work On
 
@@ -148,19 +161,6 @@ Built reusable and scalable custom Gutenberg blocks using ACF Pro and block.json
 ### 🔹 [Block Theme & FSE Development](https://www.easyimran.com/portfolio/)
 
 Worked with modern WordPress Full Site Editing architecture and custom block-based themes.
-
----
-## 📈 GitHub Activity
-
-<p>
-  <img src="https://ghchart.rshah.org/the-imraaan" alt="GitHub Contribution Chart" />
-</p>
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=the-imraaan&theme=tokyonight&hide_border=true" height="170" />
-</p>
 
 ---
 
